@@ -8,8 +8,8 @@ import OrphanagesMap from './screens/OrphanagesMap';
 import OrphanageDetails from './screens/OrphanageDetails';
 
 // Cadastro dos orfanatos
-import SelectMapPosition from './screens/createOrphanage/SelectMapPosition';
-import OrphanageData from './screens/createOrphanage/OrphanageData';
+import SelectMapPosition from './screens/registerOrphanage/SelectMapPosition';
+import OrphanageData from './screens/registerOrphanage/OrphanageData';
 
 const { Navigator, Screen } = createStackNavigator();
 
