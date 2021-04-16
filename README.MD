@@ -43,7 +43,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
 ## :iphone: Screens
-<h1 style="display: grid; grid-template-columns: 200px 200px; gap: 30px; justify-content: center;">
+<h1 style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; justify-content: center;">
   <img alt="Tela de splash" src=".github/screens/splash-screen.jpg" height="380">
   <img alt="Orfanatos no mapa" src=".github/screens/orphanage-map.jpg" height="380">
   <img alt="Seleção de ponto no mapa" src=".github/screens/select-map.jpg" height="380">
